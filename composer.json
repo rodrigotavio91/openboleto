@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Biblioteca para geração de boletos bancários.",
     "keywords": ["boleto", "boleto bancario"],
-    "homepage": "http://github.com/rodrigoyavio91/openboleto",
+    "homepage": "http://github.com/rodrigotavio91/openboleto",
     "license": "MIT",
     "authors": [
         {
